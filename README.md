@@ -1,7 +1,6 @@
 <div align="center" ><b>Hi, I am Pavel </b> <img src="#"> </div>
 
-[My resume](https://github.com/miller-pavel/pages):  My stack:
-<div align='center'>
+My stack:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,3 +28,6 @@
 </div> <br> <br>
 
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+
+
+My [resume]([https://github.com/miller-pavel/pages](https://pages-khaki-psi.vercel.app/)):  
