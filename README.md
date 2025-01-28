@@ -28,4 +28,4 @@ My stack:
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 
-[my resume](https://pages-khaki-psi.vercel.app/):  
+[my page](https://pages-khaki-psi.vercel.app/):  
