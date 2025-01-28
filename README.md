@@ -30,4 +30,4 @@ My stack:
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 
-My [resume]([https://github.com/miller-pavel/pages](https://pages-khaki-psi.vercel.app/):  
+[My resume]([https://pages-khaki-psi.vercel.app/]):  
