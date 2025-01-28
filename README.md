@@ -1,4 +1,4 @@
-<div align="center" ><b>Hi, Miller Pavel </b> <img src="#"> </div>
+<div align="center" ><b>Hi, I am Pavel </b> <img src="#"> </div>
 
 <div id="header" align="center">
 <img src="#">
@@ -25,11 +25,6 @@
 
 ---
 
-### My status :
-<div align="center">
-  <a href="[https://github.com/](https://github.com/anuraghazra/github-readme-stats)">
-    <img align="center" src="https://" />
-  </a>
-</div>
+
 
 
