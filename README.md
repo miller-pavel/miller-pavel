@@ -25,9 +25,14 @@ My stack:
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 </div> <br> <br>
 
-<a href= [my page](https://pages-khaki-psi.vercel.app/)>
+[my page](https://pages-khaki-psi.vercel.app/)
 
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
+  <div id="badges">
+    <a href="https://pages-khaki-psi.vercel.app/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
 
+  </div>
 
