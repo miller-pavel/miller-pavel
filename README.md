@@ -1,7 +1,7 @@
 <div align="center" ><b>Hi, Miller Pavel </b> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRhdnExdzV5YnN5aTZpYTJhdmVjczlwZ3hlcXI0MnExZGt4OTd3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoJC2GnSClbPOkV0eA/giphy.gif"> </div>
 
 <div id="header" align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRhdnExdzV5YnN5aTZpYTJhdmVjczlwZ3hlcXI0MnExZGt4OTd3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoJC2GnSClbPOkV0eA/giphy.gif/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRhdnExdzV5YnN5aTZpYTJhdmVjczlwZ3hlcXI0MnExZGt4OTd3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoJC2GnSClbPOkV0eA/giphy.gif">
 </div>
 
 ---
@@ -27,7 +27,7 @@
 
 ### My status :
 <div align="center">
-  <a href="https://github.com/">
+  <a href="[https://github.com/](https://github.com/anuraghazra/github-readme-stats)">
     <img align="center" src="https://" />
   </a>
 </div>
