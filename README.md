@@ -31,7 +31,7 @@ My stack:
 
   <div id="badges">
     <a href="https://pages-khaki-psi.vercel.app/" target="_blank">
-      <img src="#" width="40" height="40" alt="linkedin" />
+      <img src="#" width="40" height="40" alt="my page" />
     </a>
 
   </div>
