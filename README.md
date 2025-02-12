@@ -19,6 +19,7 @@ My stack:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 </div> <br> <br>
 
+[resume](https://miller-pavel.github.io/resume/)
 
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
