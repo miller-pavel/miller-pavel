@@ -21,9 +21,6 @@ My stack:
 
 [resume](https://miller-pavel.github.io/resume/)
 
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
-
-
 [my page](https://pages-khaki-psi.vercel.app/)
 
-
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
